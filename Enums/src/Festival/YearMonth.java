@@ -1,0 +1,5 @@
+package Festival;
+
+public enum YearMonth {
+    JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
+}
