@@ -52,8 +52,9 @@ public class Counter implements Runnable {
     public void run() {
         try (Scanner scanner = new Scanner(this.file)) {
             while (scanner.hasNext()) {
-                if (scanner.hasNext("\\d+(?:\\.\\d+)?")) {
-                    this.summator.addValueToSum(Double.parseDouble(scanner.next()));
+//                if (scanner.hasNext("\\d+(?:\\.\\d+)?")) {
+                if (scanner.hasNextDouble()) {
+                    this.summator.addValueToSum(scanner.nextDouble());
                 } else {
                     scanner.next();
                 }

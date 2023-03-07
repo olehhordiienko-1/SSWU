@@ -4,376 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d479423-1246-4b60-8d9b-dbf79399e530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/APIs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/src/APis/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/src/APis/TestForDZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/src/APis/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/src/APis/taskForAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract/Abstract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract/src/Abstract/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraysLoop/ArraysLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraysLoop/src/Arrays/ExampleArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraysLoop/src/Arrays/taskForArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraysLoop/src/Arrays/taskForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/Basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Cycles/MathTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Cycles/Triangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Extender/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/ForEach/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/IfElse/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/task/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/task/DaysOfWeekList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/task/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/task/MarksList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/task/PlanetsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/taskV2/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/taskV2/DaysOfWeekList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/taskV2/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/taskV2/MarksList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/taskV2/PlanetsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/video/Example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Main/video/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Modifiers/package1/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Modifiers/package2/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Modifiers/package2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/MyNameDisplay/MyDisplayName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Packages/Package1/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Packages/Package2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/Packages/Package2/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/src/SwitchContinueBreak/SwitchCae.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary/Binary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary/src/Binary/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary/src/Binary/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalendarTime/CalendarTime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalendarTime/src/Calendar/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalendarTime/src/MyBD/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalendarTime/src/MyBD/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalendarTime/src/Time/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalendarTime/src/Time/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassArrays/ClassArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassArrays/src/ClassArrays/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/ArrayLists/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/Collections/Hashmap/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/Collections/Iterators/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/Collections/Queue_LinkedList/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/Collections/TreeSets/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections/src/Collections/Treemap/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Comparable/src/SortByComparable/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Comparable/src/SortByComparable/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Comparable/src/SortByComparable/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Comparator/Comparator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Comparator/src/Comparator/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent/Concurrent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent/src/Atomic/Accumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent/src/Atomic/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent/src/Composition/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent/src/Concurrent1/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent/src/Concurrent2/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrent/src/ConcurrentCollections/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covariant/Covariant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covariant/src/Covariants/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enums/Enums.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enums/src/Enums/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enums/src/Enums/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enums/src/Festival/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enums/src/Festival/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enums/src/Festival/Fest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enums/src/Festival/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enums/src/Festival/YearMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/Exceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/Exceptions/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/Exceptions/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/Exceptions/Handler3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/Exceptions/Handler4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions/src/Exceptions/file2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/ChristmasTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/DownTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/MirroredDownTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/MirroredParallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/MirroredUpTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/MirroredVerticalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/SimpleParallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/UpTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/ChildModels/VerticalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/Control/ControllerAndView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/Control/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/Models/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/Models/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/Models/Trapeze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/src/main/java/org/mvc/Models/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FilesIO/FilesIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FilesIO/src/Files/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FilesIO/src/Files/file1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FilesIO/src/Files/file2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/Final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/src/Final/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/src/StudentsGroup/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/src/StudentsGroup/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/src/StudentsGroup/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/src/StudentsGroup/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/FunctionalInterfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/ArraysLambda/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/ArraysLambda/ControllerForCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/ArraysLambda/ControllerForNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/ArraysLambda/ControllerWithInnerClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/ArraysLambda/ControllerWithInnerClassesForCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/ArraysLambda/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/Lambda/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/Lambda/Handler2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/Lambda/labmda5/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/Lambda/lambda3/I1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/Lambda/lambda3/Lambda3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionalInterfaces/src/Lambda/lambda4/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GarbageCollector/GarbageCollector.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GarbageCollector/src/GarbageCollector/Handler1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GarbageCollector/src/GarbageCollector/Handler2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/Generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/Generics1/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/Generics2/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/Generics4/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/GenericsLimited/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/GenericsVSPolymorphism/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Initialization/src/Initialization/Video/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Initialization/src/Initialization/Video2/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerClasses/src/Anonymous/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerClasses/src/Innerclasses/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/java/JavaFX/JavaFXLabelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/java/com/example/javafx/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/java/com/example/javafx/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFX/src/main/resources/com/example/javafx/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locks/src/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/MVC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/CalculateInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/IntegerNumberCalculator/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/IntegerNumberCalculator/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/IntegerNumberCalculator/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/IntegerNumberCalculator/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/Triangles2MVC/ChristmasTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/Triangles2MVC/ControllerAndView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/Triangles2MVC/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/Triangles2MVC/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/Triangles2MVC/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/Triangles2MVC/Trapeze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/Triangles2MVC/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/ChristmasTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/ControllerAndView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/DownTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/MirroredDownTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/MirroredParallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/MirroredUpTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/MirroredVerticalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/SimpleParallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/Trapeze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/UpTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/TrianglesMVC/VerticalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/printShapes/ControllerAndView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/printShapes/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/MVC/printShapes/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/Rectangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/Rectangle/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/Rectangle/RectangleDevolvedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/Rectangle/RectangleFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/Rectangle/RectangleNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/Rectangle/ToSend/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/RectanglesMVC/ControllerAndView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/RectanglesMVC/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MVC/src/RectanglesMVC/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/FindingParsingForMyRegex/Parser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/FindingParsingForMyRegex/ParsingByPunctual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Cash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Some.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Test333.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/somePack/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/somePack/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/somePack/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/somePack/TaskForThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyParser/src/somePack/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Birds/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Casting/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Inheritance/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Interfaces/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Interfaces/I1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Overloads/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Overriding/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/src/Polymorphism/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/Object.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/src/Equals/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/src/Finalize/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/src/Finalize/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/src/Finalize/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parameters/Parameters.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parameters/src/Parameters/Task/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parameters/src/Parameters/Task/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parameters/src/Parameters/Task/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parameters/src/Parameters/Video/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parameters/src/Parameters/Video/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regex/Regex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regex/src/Parsing/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regex/src/Parsing/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regex/src/Parsing/File1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regex/src/Parsing/File2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regex/src/PatternMatcher/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serialization/src/Serialization/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serialization/src/Serialization/file1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Serialization/src/Serialization/file2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static/FixCar/AutoServiceStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static/FixCar/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static/FixCar/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static/FixCar/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static/Video/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static/Video/Bentley.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static/Video/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static2/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static3/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static3/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Static/src/Static3/SaloonCosmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Strings/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Strings/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperThis/src/Super/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperThis/src/This/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Synchronized/Synchronized.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Synchronized/src/SynchoGood/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Synchronized/src/Synchronized1/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForConcurrentCollections/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForConcurrentCollections/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForConcurrentCollections/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForConcurrentCollections/FirstText" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForConcurrentCollections/SecondText" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForConcurrentCollections/ThirdText" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForConcurrentCollections/Words.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForExam/refactoredBySerhiy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForExam/taskForExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForFiles/Bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForFiles/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForFiles/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForFiles/InputFiles/Bottles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForFiles/OutputFiles/FirstCategory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForFiles/OutputFiles/SecondCategory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForFiles/OutputFiles/ThirdCategory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForGenerics/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForGenerics/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForGenerics/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForGenerics/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForGenerics/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLines/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLines/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLines/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLines/LINES" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLines/LINES.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLines/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLines/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/FirstFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/SecondFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Summator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/ThirdFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Chassis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/PLANES" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/SHIPS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSerialization/Wheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSynchronized/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSynchronized/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSynchronized/FirstFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSynchronized/SecondFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSynchronized/Summator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForSynchronized/ThirdFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForThreads/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForThreads/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForThreads/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForThreads/FirstFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForThreads/SecondFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForThreads/ThirdFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/CargoLiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/FighterPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/PassengerCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/PassengerLiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/PassengerPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/TransportPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/TugShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehicles/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/FighterPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/PassengerCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/PassengerLiner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/PassengerPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/Tanker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/TransportPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/ChildClasses/Tugboat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/Controllers/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/Controllers/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/Controllers/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/MainClasses/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/MainClasses/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/MainClasses/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/MainClasses/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/MainClasses/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Anchor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Apron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Bomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Extinguisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/FuelTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Gun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Stewardess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Wheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForVehiclesInheritance/PartsOfVehicles/Wing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWorldOfWar/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWorldOfWar/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadsBasic/src/Threads1/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadsBasic/src/ThreadsTest44/Cruiser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VarArgs/src/VarArgs/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wrappers/src/Wrappers/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wrappers/src/Wrappers/Main2.java" afterDir="false" />
+    <list default="true" id="4d479423-1246-4b60-8d9b-dbf79399e530" name="Changes" comment="All my private files was uploaded.">
+      <change afterPath="$PROJECT_DIR$/AirportMultithreadingMode/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AirportMultithreadingMode/src/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AirportOnethreadMode/src/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AirportOnethreadMode/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AirportOnethreadMode/src/BusFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AirportOnethreadMode/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AirportOnethreadMode/src/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AirportOnethreadMode/src/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collect/src/Collectors1/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debugger/src/TestingDebuggerInBubbleSort/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debugger/src/TestingFrames/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyParser/src/ParseText/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyParser/src/Tester/Javah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyParser/src/inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyParser/src/inheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyParser/src/inheritance/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parallel/src/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parallel/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams/src/stream_2/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForCollectors/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForCollectors/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForCollectors/Sentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForOptional/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForParallel/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForParallel/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForStreamsOperations/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/CounterWhitespaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/FileWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/TextParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/Updater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/W1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/W2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/W3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/W4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive/W5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/CounterWhitespaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/FileWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/Updater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/W1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/W2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/W3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/W4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/W5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaitNotify/src/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/src/Packages/Package1/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/src/Packages/Package1/Dispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Dispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/TaskForLocks/FirstFile" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/FirstFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/TaskForLocks/SecondFile" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/SecondFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Summator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/Summator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/TaskForLocks/ThirdFile" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/TaskForLocks/ThirdFile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -385,6 +75,7 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -411,26 +102,28 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/olehhordiienko/Oleh/JavaCampSigma/SigmaSoftware/Projects/Tasks/src/TaskForLocks&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/olehhordiienko/Oleh/JavaCampSigma/SigmaSoftware/Projects&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test2" />
+      <recent name="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify" />
       <recent name="$PROJECT_DIR$/Tasks/src/TaskForLocks" />
       <recent name="$PROJECT_DIR$/OOP/src/Casting" />
       <recent name="$PROJECT_DIR$/src/Sigma/Software/TaskForSynchronized" />
-      <recent name="$PROJECT_DIR$/Figures/src/main/java/org/example" />
-      <recent name="$PROJECT_DIR$/src/Sigma/Software/main/taskV2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Parallel/src" />
+      <recent name="$PROJECT_DIR$/Airport/src" />
+      <recent name="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main" />
+      <recent name="$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Archive" />
       <recent name="$PROJECT_DIR$/Tasks/src" />
-      <recent name="$PROJECT_DIR$/Synchronized/src" />
-      <recent name="$PROJECT_DIR$/src/Sigma/Software/main/video" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="TaskForConcurrentCollections" />
@@ -438,20 +131,40 @@
       <recent name="Sigma.Software.TrianglesMVC" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TaskForConcurrentCollections.Dispatcher">
-    <configuration name="Handler (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Handler" />
-      <module name="Locks" />
+  <component name="RunManager" selected="Application.TaskForParallel.Dispatcher">
+    <configuration name="Dispatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskForCollectors.Dispatcher" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TaskForCollectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sigma.Software.ConcurrentCollections.Handler" />
-      <module name="Projects" />
+      <option name="MAIN_CLASS_NAME" value="Handler" />
+      <module name="Parallel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Parallel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskForParallel.Dispatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskForParallel.Dispatcher" />
+      <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sigma.Software.ConcurrentCollections.*" />
+          <option name="PATTERN" value="TaskForParallel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -459,38 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskForConcurrentCollections.Dispatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskForConcurrentCollections.Dispatcher" />
+    <configuration name="TaskForParallel.Handler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskForParallel.Handler" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TaskForConcurrentCollections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskForLocks.Dispatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskForLocks.Dispatcher" />
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TaskForLocks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskForSynchronized.Dispatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskForSynchronized.Dispatcher" />
-      <module name="Tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TaskForSynchronized.*" />
+          <option name="PATTERN" value="TaskForParallel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -499,19 +186,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Handler (1)" />
-      <item itemvalue="Application.TaskForLocks.Dispatcher" />
-      <item itemvalue="Application.TaskForSynchronized.Dispatcher" />
       <item itemvalue="Application.Handler" />
-      <item itemvalue="Application.TaskForConcurrentCollections.Dispatcher" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.TaskForParallel.Dispatcher" />
+      <item itemvalue="Application.TaskForParallel.Handler" />
+      <item itemvalue="Application.Dispatcher" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskForConcurrentCollections.Dispatcher" />
-        <item itemvalue="Application.TaskForSynchronized.Dispatcher" />
-        <item itemvalue="Application.TaskForLocks.Dispatcher" />
-        <item itemvalue="Application.Handler (1)" />
+        <item itemvalue="Application.TaskForParallel.Dispatcher" />
+        <item itemvalue="Application.TaskForParallel.Handler" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Handler" />
+        <item itemvalue="Application.Dispatcher" />
       </list>
     </recent_temporary>
   </component>
@@ -612,8 +299,32 @@
       <workItem from="1675444210630" duration="547000" />
       <workItem from="1675509011521" duration="19770000" />
       <workItem from="1675615227796" duration="6395000" />
-      <workItem from="1676204971859" duration="176000" />
+      <workItem from="1676204971859" duration="1720000" />
+      <workItem from="1676214957486" duration="1235000" />
+      <workItem from="1676278970616" duration="28067000" />
+      <workItem from="1676362032919" duration="15819000" />
+      <workItem from="1676408211042" duration="7513000" />
+      <workItem from="1676567388003" duration="2622000" />
+      <workItem from="1676572564220" duration="9969000" />
+      <workItem from="1676711278812" duration="14064000" />
+      <workItem from="1676930159209" duration="86000" />
+      <workItem from="1677069475510" duration="2741000" />
+      <workItem from="1677142074216" duration="9659000" />
+      <workItem from="1677166920685" duration="9461000" />
+      <workItem from="1677486057846" duration="10572000" />
+      <workItem from="1677598682128" duration="2873000" />
+      <workItem from="1677758799645" duration="3913000" />
+      <workItem from="1677859243634" duration="7311000" />
+      <workItem from="1678136302910" duration="3033000" />
     </task>
+    <task id="LOCAL-00001" summary="All my private files was uploaded.">
+      <created>1676205460163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676205460163</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,6 +343,91 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="All my private files was uploaded." />
+    <option name="LAST_COMMIT_MESSAGE" value="All my private files was uploaded." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <condition expression="temp == 93" language="JAVA" />
+          <url>file://$PROJECT_DIR$/Debugger/src/TestingDebuggerInBubbleSort/Handler.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Debugger/src/TestingFrames/Frames.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/MyParser/src/Tester/Javah.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/MyParser/src/Tester/Javah.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/Dispatcher.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/FileWrapper.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/Tasks/src/TaskForWaitNotify/Main/FileWrapper.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/AirportOnethreadMode/src/Airplane.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/AirportOnethreadMode/src/Airplane.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/AirportOnethreadMode/src/Controller.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AirportOnethreadMode/src/Controller.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/AirportOnethreadMode/src/Controller.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="bus.getDriveTo().equals(&quot;Kolomiya&quot;) &amp;&amp; family.getTravelTo().equals(&quot;Kolomiya&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/AirportOnethreadMode/src/Controller.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/AirportOnethreadMode/src/Controller.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

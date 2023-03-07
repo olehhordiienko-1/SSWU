@@ -4,7 +4,6 @@ package Packages.Package1;
 // import Sigma.Software.Packages.Package2.Test3; // second
 import Packages.Package2.Test2;
 import Packages.Package2.Test3;
-import Sigma.Software.Packages.Package2.*; // third
 
 public class Dispatcher {
     public static void main(String[] args) {

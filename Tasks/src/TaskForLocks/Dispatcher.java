@@ -11,7 +11,7 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Dispatcher {
     public static void main(String[] args) throws InterruptedException {
         // for collectivity calculating, it's collective object for 3 threads
-        Summator summator = new Summator(new ReentrantLock());
+        Summator summator = new Summator();
         // 30 + 1.8 = 31.8
         Counter firstCounter = new Counter(new File("/Users/olehhordiienko/Oleh/JavaCampSigma/SigmaSoftware/Projects/Tasks/src/TaskForLocks/FirstFile"), summator);
         // 99 + 87 + 9.5 = 195.5
@@ -19,9 +19,9 @@ public class Dispatcher {
         // 4308 + 8 + 666 + 777 = 5759
         Counter thirdCounter = new Counter(new File("/Users/olehhordiienko/Oleh/JavaCampSigma/SigmaSoftware/Projects/Tasks/src/TaskForLocks/ThirdFile"), summator);
 
-        Thread firstThread = new Thread(firstCounter, "FirstThread");
-        Thread secondThread = new Thread(secondCounter, "SecondThread");
-        Thread thirdThread = new Thread(thirdCounter, "ThirdThread");
+        Thread firstThread = new Thread(firstCounter, "1-thread");
+        Thread secondThread = new Thread(secondCounter, "2-thread");
+        Thread thirdThread = new Thread(thirdCounter, "3-thread");
 
         firstThread.start();
         secondThread.start();
