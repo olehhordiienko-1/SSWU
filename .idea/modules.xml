@@ -4,20 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/APIs/APIs.iml" filepath="$PROJECT_DIR$/APIs/APIs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AirportMultithreadingMode/AirportMultithreadingMode.iml" filepath="$PROJECT_DIR$/AirportMultithreadingMode/AirportMultithreadingMode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AirportOnethreadMode/AirportOnethreadMode.iml" filepath="$PROJECT_DIR$/AirportOnethreadMode/AirportOnethreadMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArraysLoop/ArraysLoop.iml" filepath="$PROJECT_DIR$/ArraysLoop/ArraysLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary/Binary.iml" filepath="$PROJECT_DIR$/Binary/Binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalendarTime/CalendarTime.iml" filepath="$PROJECT_DIR$/CalendarTime/CalendarTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassArrays/ClassArrays.iml" filepath="$PROJECT_DIR$/ClassArrays/ClassArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Collect/Collect.iml" filepath="$PROJECT_DIR$/Collect/Collect.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Comparable/Comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Comparator/Comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrent/Concurrent.iml" filepath="$PROJECT_DIR$/Concurrent/Concurrent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Covariant/Covariant.iml" filepath="$PROJECT_DIR$/Covariant/Covariant.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Debugger/Debugger.iml" filepath="$PROJECT_DIR$/Debugger/Debugger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilesIO/FilesIO.iml" filepath="$PROJECT_DIR$/FilesIO/FilesIO.iml" />
@@ -32,20 +28,17 @@
       <module fileurl="file://$PROJECT_DIR$/MyParser/MyParser.iml" filepath="$PROJECT_DIR$/MyParser/MyParser.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object/Object.iml" filepath="$PROJECT_DIR$/Object/Object.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Parallel/Parallel.iml" filepath="$PROJECT_DIR$/Parallel/Parallel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Parameters/Parameters.iml" filepath="$PROJECT_DIR$/Parameters/Parameters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projects.iml" filepath="$PROJECT_DIR$/Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regex/Regex.iml" filepath="$PROJECT_DIR$/Regex/Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/Serialization/Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperThis/SuperThis.iml" filepath="$PROJECT_DIR$/SuperThis/SuperThis.iml" />
       <module fileurl="file://$PROJECT_DIR$/Synchronized/Synchronized.iml" filepath="$PROJECT_DIR$/Synchronized/Synchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tasks/Tasks.iml" filepath="$PROJECT_DIR$/Tasks/Tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadsBasic/ThreadsBasic.iml" filepath="$PROJECT_DIR$/ThreadsBasic/ThreadsBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/VarArgs/VarArgs.iml" filepath="$PROJECT_DIR$/VarArgs/VarArgs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WaitNotify/WaitNotify.iml" filepath="$PROJECT_DIR$/WaitNotify/WaitNotify.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wrappers/Wrappers.iml" filepath="$PROJECT_DIR$/Wrappers/Wrappers.iml" />
     </modules>
   </component>
